@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/197/trunk/Servizio
+END
+servizio_dizionarioVettore.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/197/trunk/Servizio/servizio_dizionarioVettore.h
+END
+servizio_dizionarioLista.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/197/trunk/Servizio/servizio_dizionarioLista.h
+END
+servizio_listaUnidirezionale_interi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/197/trunk/Servizio/servizio_listaUnidirezionale_interi.h
+END
+servizioTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/192/trunk/Servizio/servizioTemplate.h
+END
+servizio_grafoMatriciAdiacenza.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/197/trunk/Servizio/servizio_grafoMatriciAdiacenza.h
+END
+servizio_grafoMatriciIncidenza.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/197/trunk/Servizio/servizio_grafoMatriciIncidenza.h
+END
+servizio_listaVettore_interi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/197/trunk/Servizio/servizio_listaVettore_interi.h
+END
+servizio_alberoBin_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/197/trunk/Servizio/servizio_alberoBin_int.h
+END
+servizi_e-ario.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/192/trunk/Servizio/servizi_e-ario.h
+END
+servizio_grafoListaArchi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/197/trunk/Servizio/servizio_grafoListaArchi.h
+END
+servizioAlberobin.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/192/trunk/Servizio/servizioAlberobin.h
+END
+servizio_listaBidirezionale_interi.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/197/trunk/Servizio/servizio_listaBidirezionale_interi.h
+END
+servizio_alberon_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/197/trunk/Servizio/servizio_alberon_int.h
+END
